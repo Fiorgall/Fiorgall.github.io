@@ -18,3 +18,5 @@
 [Урок 11](https://fs02.getcourse.ru/fileservice/file/download/a/12250/sc/276/h/d12c89bafdac29224c0b61e12cc793e3.png "Сниппеты.")
 
 [Урок 12](адрес "Хостинг от GitHub.")
+
+[Урок 13](Fiorgall.github.io "Пиксельная верстка")
