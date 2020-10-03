@@ -23,4 +23,6 @@
 
 [Верстка макета](Fiorgall.github.io "Подготовка файлов. Верстка шапки сайта.")
 
-[Урок 14](Fiorgall.github.io/htmllang "Подключение шрифтов.")
+[Урок 14.1](Fiorgall.github.io/htmllang "Подключение шрифтов.")
+
+[Урок 14.2](Fiorgall.github.io/htmllang "Верстка первого экрана")
