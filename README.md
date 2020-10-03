@@ -25,4 +25,4 @@
 
 [Урок 14.1](Fiorgall.github.io/htmllang "Подключение шрифтов.")
 
-[Урок 14.2](Fiorgall.github.io/htmllang "Верстка первого экрана")
+[Урок 14.2](Fiorgall.github.io "Верстка первого экрана")
